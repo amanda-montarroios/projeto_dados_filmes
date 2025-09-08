@@ -35,7 +35,7 @@ Ter o Git instalado para clonar o repositório.
 
 git clone https://github.com/amanda-montarroios/projeto_dados_filmes.git
 
-cd projeto_dados_filmes
+cd dados_filme
 
 #### Criar o ambiente
 python -m venv venv
