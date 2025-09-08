@@ -37,6 +37,8 @@ git clone https://github.com/amanda-montarroios/projeto_dados_filmes.git
 
 cd dados_filme
 
+cd projeto_dados_filmes
+
 #### Criar o ambiente
 python -m venv venv
 
