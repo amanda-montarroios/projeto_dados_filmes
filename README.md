@@ -26,12 +26,12 @@ Esta análise vai além de métricas superficiais, utilizando enriquecimento de 
 
 ## Como rodar ⌨️
 
-### Pré-requisitos
+### 1.Pré-requisitos
 Ter o Python (versão 3.8 ou superior) instalado.
 
 Ter o Git instalado para clonar o repositório.
 
-### Instalação
+### 2.Instalação
 
 git clone https://github.com/amanda-montarroios/projeto_dados_filmes.git
 
@@ -39,23 +39,23 @@ cd dados_filme
 
 cd projeto_dados_filmes
 
-#### Criar o ambiente
+#### 3.Criar o ambiente
 python -m venv venv
 
-#### Ativar o ambiente (Windows)
+#### 4.Ativar o ambiente (Windows)
 .\venv\Scripts\activate
 
-### Ativar o ambiente (macOS/Linux)
+### 4.1.Ativar o ambiente (macOS/Linux)
 source venv/bin/activate
 
-#### Instale as dependências:
+#### 5.Instale as dependências:
 Todas as bibliotecas necessárias estão listadas no arquivo requirements.txt.
 
 Bash
 
 pip install -r requirements.txt
 
-#### Execução
+#### 6.Execução
 Após a instalação, abra a pasta do projeto no Visual Studio Code. O arquivo principal com toda a análise é o Jupyter Notebook:
 
 notebooks/analise_filmes.ipynb
