@@ -45,7 +45,7 @@ python -m venv venv
 #### 4.Ativar o ambiente (Windows)
 .\venv\Scripts\activate
 
-### 4.1.Ativar o ambiente (macOS/Linux)
+#### 4.1.Ativar o ambiente (macOS/Linux)
 source venv/bin/activate
 
 #### 5.Instale as dependências:
